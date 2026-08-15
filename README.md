@@ -1,8 +1,10 @@
-# shintaku-eraichan.github.io
+# shintaku-eraichan
 
 神託エライチャンの公式紹介サイトです。
 
-リポジトリ: https://github.com/SuspiciousCEO/shintaku-eraichan.github.io
+紹介ページ: https://suspiciousceo.github.io/shintaku-eraichan/
+
+リポジトリ: https://github.com/SuspiciousCEO/shintaku-eraichan
 
 ## License
 
